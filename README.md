@@ -1,5 +1,5 @@
 # Odyssey
-Odessey is a 2D platforming game that I embarked on with my friend for the Orbital project. This was the first software development project that we tackled since starting university, so the quality of the game may not be the best. But we still did try to make it as fun as possible:D
+Odessey is a 2D platforming game that I embarked on with my friend for the Orbital project. Odyssey attempts to combines ideas from platformers(such as mario) and visual novels (such as Ace Attornery) to bring you a game that has the best of both worlds. This was the first software development project/game that we tackled since starting university, so the quality of the game may not be the best. But we still tried our best to make it as fun as possible:D 
 
 If you would like to try this game out, just follow the steps listed below.
 <ol>
