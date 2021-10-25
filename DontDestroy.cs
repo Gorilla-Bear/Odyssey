@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DontDestroy : MonoBehaviour {
+    void Awake() {
+        GameObject[] objs = GameObject.FindGameObjectsWithTag("BackgroundMusic");
+        GameObject stopMusic = GameObject.FindWithTag("ChangeMusic");
+        if (objs.Length > 1 && stopMusic == null) {
+            Destroy(this.gameObject);
+        }
+
+        DontDestroyOnLoad(this.gameObject);
+    }
+}
