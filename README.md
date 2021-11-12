@@ -17,7 +17,7 @@ If you would like to try this game out, just follow the steps listed below.
 
 For more information, visit this [link](https://github.com/Imerbear/Odyssey/blob/main/Odyssey%20Milestone%203%20ReadMe.pdf)
 
-The images found below extra information are some screenshots from the game.
+The images found below are some screenshots from the game.
 <img src="Images/Odyssey_Plains.png" width="600">
 
 <img src="Images/Odyssey_Mountains.png" width="600">
