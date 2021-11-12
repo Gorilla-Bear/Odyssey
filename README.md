@@ -2,7 +2,7 @@
 
 Odessey is a 2D platforming game that I embarked on with my friend for the Orbital project. Odyssey attempts to combines ideas from platformers(such as mario) and visual novels (such as Ace Attornery) to bring you a game that has the best of both worlds.
 
-This was the first software development project/game that we tackled since starting university, so the quality of the game may not be the best. But we still tried our best to make it as fun as possible:D
+This was the first software development project/game that we tackled since starting university, so the quality of the game may not be the best. But we still tried our best to make it as fun as possible :D
 
 If you would like to try this game out, just follow the steps listed below.
 
@@ -15,7 +15,7 @@ If you would like to try this game out, just follow the steps listed below.
   <li> Have fun with the game!</li>
 </ol>
 
-For more information, visit this [link](https://github.com/Imerbear/Odyssey/blob/main/Odyssey%20Milestone%203%20ReadMe.pdf)
+For more information, visit this [link](https://github.com/Imerbear/Odyssey/blob/main/Odyssey%20Milestone%203%20ReadMe.pdf).
 
 The images found below are some screenshots from the game.
 <img src="Images/Odyssey_Plains.png" width="600">
