@@ -1,5 +1,10 @@
 # Odyssey
 
+## Trailer
+
+https://user-images.githubusercontent.com/77242041/156528574-0811a408-c2a9-4fab-97c1-26ae4517c7d4.mp4
+
+## Description
 Odessey is a 2D platforming game that I embarked on with my friend for the Orbital project. Odyssey attempts to combines ideas from platformers(such as mario) and visual novels (such as Ace Attornery) to bring you a game that has the best of both worlds.
 
 This was the first software development project/game that we tackled since starting university, so the quality of the game may not be the best. But we still tried our best to make it as fun as possible :D
